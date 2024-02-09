@@ -16,6 +16,23 @@
     background-color: rgb(20, 30, 40);
   }
 
+  img {
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .hero-title {
+    text-align: center;
+    color: orangered;
+    font-size: 8rem;
+  }
+
+  .hero-subtitle { 
+    font-size: 2.4rem;
+    color: orangered;
+    text-align: center;
+  }
+
   /* Main stylings*/
 
   h1 {
